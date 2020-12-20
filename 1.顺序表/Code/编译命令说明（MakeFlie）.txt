@@ -1,0 +1,2 @@
+cmd进入该目录下输入：
+gcc myError.c mySeq.c Main.c -o Main

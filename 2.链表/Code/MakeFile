@@ -1,0 +1,4 @@
+all:
+	gcc universal/myError.c myLinkList.c Main.c -o Main
+clean: 
+	rm -rf Main Main.o

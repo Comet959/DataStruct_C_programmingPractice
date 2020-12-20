@@ -1,0 +1,4 @@
+all:
+	gcc Queue.c Stack.c Main.c -o Main
+clean: 
+	rm -rf Main Main.o
